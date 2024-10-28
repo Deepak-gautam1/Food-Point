@@ -116,8 +116,6 @@ Then open http://localhost:8501 and enjoy :smiley:.
 
 PS: You should have docker and docker-compose already installed
 
-### Use the hosted version on Streamlit Cloud
-
 ## Demo Video
 <div align= "center"><img src="Assets/foodpoint.png" /></div>
 [![Demo Video]](https://drive.google.com/file/d/1Hzd2AQR46gRUaOS3EBm9wPEpS1XMh8A4/view?usp=sharing)
