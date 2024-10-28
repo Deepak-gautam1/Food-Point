@@ -119,7 +119,7 @@ PS: You should have docker and docker-compose already installed
 ### Use the hosted version on Streamlit Cloud
 
 ## Demo Video
-<div align= "center"><img src="Assets/demo.png" /></div>
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1Hzd2AQR46gRUaOS3EBm9wPEpS1XMh8A4/view?usp=sharing)
+<div align= "center"><img src="Assets/foodpoint.png" /></div>
+[![Demo Video]](https://drive.google.com/file/d/1Hzd2AQR46gRUaOS3EBm9wPEpS1XMh8A4/view?usp=sharing)
 
 <!-- https://diet-recommendation-system.streamlit.app/ -->
