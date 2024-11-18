@@ -17,8 +17,15 @@
 ## :scroll: General info
 
 ### Motivation
+In today’s modern world, people are becoming increasingly concerned about their health and lifestyle. While avoiding junk food and exercising are crucial, they are not sufficient on their own. A balanced diet is essential for maintaining good health. By tailoring meals based on factors like height, weight, and age, individuals can achieve and sustain a healthy lifestyle. A balanced diet, combined with regular physical activity, can help manage weight, reduce the risk of chronic diseases such as heart disease and cancer, and improve overall well-being.
 
-People from all around the world are getting more concerned in their health and way of life in today's modern environment. However, avoiding junk food and exercising alone are insufficient; we also need to eat a balanced diet. We can live a healthy life with a balanced diet based on our height, weight, and age. Your diet can help you achieve and maintain a healthy weight, lower your chance of developing chronic diseases (including cancer and heart disease), and improve your general health when combined with physical activity. Nevertheless, there is a little SOTA project on food/diet recommendation system. Therefore I got the idea to build a content-based recommendation system for this purpose using machine learning.
+Despite growing awareness, there is a lack of State-of-the-Art (SOTA) projects focusing on food and diet recommendation systems. Recognizing this gap, I conceived the idea of developing a content-based recommendation system powered by machine learning to address this need.
+
+#### Future Vision
+
+In the future, the system will evolve into a monthly subscription-based meal service that delivers nutritious, personalized meals based on user recommendations. This service would especially benefit office workers living far from their families, ensuring they receive well-balanced and nutrient-rich food conveniently.
+
+This project not only promotes healthier eating habits but also bridges the gap between nutritional awareness and practical implementation, making a meaningful impact on the lives of busy professionals.
 
 ### What is a food recommendation engine?
 
